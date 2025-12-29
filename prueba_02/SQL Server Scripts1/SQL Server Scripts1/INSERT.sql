@@ -1,0 +1,15 @@
+
+
+INSERT INTO Producto VALUES ('Remera Manga Larga', 'Violeta', 2000)
+INSERT INTO Producto VALUES ('Remera Manga Corta', 'Azul', 1800)
+INSERT INTO Producto VALUES ('Pantalón Jean', 'Negro', 5500)
+INSERT INTO Producto VALUES ('Buzo con Capucha', 'Gris', 4200)
+INSERT INTO Producto VALUES ('Camisa Formal', 'Blanco', 3500)
+INSERT INTO Producto VALUES ('Short Deportivo', 'Rojo', 1500)
+INSERT INTO Producto VALUES ('Campera de Abrigo', 'Verde', 8900)
+INSERT INTO Producto VALUES ('Musculosa', 'Amarillo', 1200)
+INSERT INTO Producto VALUES ('Chaleco Inflable', 'Bordeaux', 6300)
+INSERT INTO Producto VALUES ('Sweater de Lana', 'Beige', 3800)
+INSERT INTO Producto VALUES ('Calza Deportiva', 'Fucsia', 2400)
+INSERT INTO Producto VALUES ('Chomba de Algodón', 'Celeste', 2100)
+INSERT INTO Producto VALUES ('Pollera de Jean', 'Azul Gastado', 3200)
